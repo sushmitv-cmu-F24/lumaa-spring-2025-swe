@@ -88,6 +88,6 @@ The frontend will automatically connect to the backend at http://localhost:3000.
 
 ---
 
-## **Salary Expectation (per month): $5000 (Summer 2025 Internship)**
+## **Salary Expectation (per month, considering 40hrs per week): $5000 (Looking for Summer 2025 Internship, if possible)**
 I am open for negotiation based on the role and responsibilities
 
